@@ -9,6 +9,6 @@ This Repository has 2 different file :
 
 For easy and better understanding I have added the TODO tast for every single peice of code .
 
-You can aslo preffer the Flow-chart of this game .
+You can aslo preffer the Flow-chart of this game to understant the code easily.
 
 
